@@ -14,5 +14,6 @@ public class C05_ChildOfAbstract extends C04{
      */
     @Override
     public void absMethod() {
+        System.out.println("fgjfkhgk");
     }
 }
